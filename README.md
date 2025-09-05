@@ -1,1 +1,1 @@
-# Lamdatest_Selenium_Python_101_Assignment
+# lambdatest-selenium-python-101-automation
